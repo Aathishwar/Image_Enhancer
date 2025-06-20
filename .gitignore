@@ -1,0 +1,68 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+backend/kernel.errors.txt
+
+# Dependencies
+node_modules/
+dist
+dist-ssr
+.pnp/
+.pnp.js
+bun.lockb
+
+# Python related
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Temporary files
+tmp_files/
+backend/tmp_files/*
+!backend/tmp_files/.gitkeep
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+*.local
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build directories
+dist/
+build/
+*.tsbuildinfo
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Test and coverage
+coverage/
+.coverage
+htmlcov/
+.nyc_output/
+.pytest_cache/
