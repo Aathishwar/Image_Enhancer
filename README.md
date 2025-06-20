@@ -114,7 +114,14 @@ Now visit **[http://localhost:8080](http://localhost:8080)** to access the app.
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/b04816ff-030f-417c-807b-383fab06a8eb)
+### 🖼️ Full Interface
+![Full Interface](https://github.com/user-attachments/assets/b04816ff-030f-417c-807b-383fab06a8eb)
+
+### ✨ Before & After Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aathishwar/Image_Enhancer/main/Samples/cat.webp" width="45%" alt="Before" />
+  <img src="https://raw.githubusercontent.com/Aathishwar/Image_Enhancer/main/Samples/enhanced-image.jpg" width="45%" alt="After" />
+</p>
 
 ---
 
